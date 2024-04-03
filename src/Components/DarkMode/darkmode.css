@@ -1,0 +1,27 @@
+.light .background {
+  background-color: white;
+  transition: 1s background-color;
+}
+.light .text {
+  color: #191919;
+}
+.light .border {
+  border: 1px solid #191919;
+}
+.light .color {
+  color: #191919;
+}
+
+.dark .background {
+  background-color: #191919;
+  transition: 1s background-color;
+}
+.dark .text {
+  color: white;
+}
+.dark .border {
+  border: 1px solid white;
+}
+.dark .color {
+  color: white;
+}/*# sourceMappingURL=darkmode.css.map */
